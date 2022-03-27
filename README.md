@@ -1,5 +1,5 @@
 # Django RESTful Framework
-Curso de aplicação de API com Django rest Framework
+Curso de aplicação de API com Django Rest Framework
 
 ## [Tutorial]()
 
